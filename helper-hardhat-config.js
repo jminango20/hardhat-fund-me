@@ -17,5 +17,5 @@ module.exports = {
     networkConfig,
     developmentChains,
     DECIMALS,
-    INITIAL_ANSWER
+    INITIAL_ANSWER,
 }
